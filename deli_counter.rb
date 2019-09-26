@@ -8,7 +8,7 @@ def line(katz_deli)
   else 
     currently = "The line is currently:"
     katz_deli.each_with_index(1) do |element, index| 
-      currently << 
+      currently << "#{index}. #{element}" 
     end 
   end 
 end   
