@@ -1,5 +1,4 @@
 # Write your code here.
-require 'pry'
 katz_deli = []
 counter = 0 
 
